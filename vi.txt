@@ -1,0 +1,7 @@
+vi 命令
+:w 保存
+:w filename 另存为filename
+:wq!保存并强制退出
+:wq! filename 以filename为文件名保存并强制退出
+：q!退出
+：x保存并退出
