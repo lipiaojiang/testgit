@@ -1,0 +1,11 @@
+git init 初始化仓库
+git add 添加修改到暂存区（git工作区）
+git commit -m '说明' 提交当前版本库
+git log 文件修改日志
+git reflog 命令日志？
+git status 状态 工作区状态?
+git checkout -- filename 丢弃最近为提交到版本库得更改
+git diff 工作区和版本库差异
+git reset --hard HEAD  回退到...版本
+
+
