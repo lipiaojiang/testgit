@@ -18,6 +18,7 @@ git branch 查看分支
 git branch name(dev) 创建分支
 git checkout dev(name) 切换到分支dev
 git merge dev 合并分支
+git checkout -b dev 创建并切换到dev分支
 git branch -d dev 删除dev分支
 
 ps. 管理修改，每次修改都需要add =》commit
