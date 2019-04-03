@@ -23,6 +23,7 @@ git branch -d dev 删除dev分支
 git branch -D dev 强制删除未合并分支
 git merge --no-ff -m "merge with no-ff" dev 分支合并记录
 
+git rebase 分支提交顺序？强迫症？
 git remote -v 远程仓库信息
 ps. 管理修改，每次修改都需要add =》commit
 
