@@ -14,8 +14,11 @@ git reset --hard HEAD  回退到...版本
 git remote add origin https://github.com/lipiaojiang/testgit.git 关联到git远程仓库
 git push -u origin master 推送master分支到远程仓库
 
+git branch 查看分支
 git branch name(dev) 创建分支
 git checkout dev(name) 切换到分支dev
+git merge dev 合并分支
+git branch -d dev 删除dev分支
 
 ps. 管理修改，每次修改都需要add =》commit
 
